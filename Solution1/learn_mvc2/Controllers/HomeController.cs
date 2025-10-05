@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using learn_mvc2.Models;
 using Microsoft.AspNetCore.Mvc;
+using NuGet.ContentModel;
 
 namespace learn_mvc2.Controllers
 {
@@ -10,6 +11,13 @@ namespace learn_mvc2.Controllers
 
         public IActionResult Index()
         {
+
+
+            
+
+    
+
+
             return View();
         }
 
